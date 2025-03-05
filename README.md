@@ -1,3 +1,14 @@
+Movie Search App
+
+** JSX, React, HTML, CSS
+
+Created-react-app to make a pre-configured React application.
+Used the useEffect React hook.
+Implemented the lifting state pattern in React.
+ React components  bound to user input elements.
+Made external API requests within a React application.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
